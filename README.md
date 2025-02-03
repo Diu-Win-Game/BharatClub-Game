@@ -32,8 +32,3 @@ BharatClub Game is a **premium gaming platform** offering **exclusive games and 
 - `BharatClub Game Download`     
 
 ---
-
-### 📩 Need Help?  
-For any queries or support, feel free to reach out!  
-
----
