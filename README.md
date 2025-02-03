@@ -24,7 +24,12 @@ BharatClub Game is a **premium gaming platform** offering **exclusive games and 
 ---
 
 ## 🔍 Related Keywords  
-`BharatClub Game` | `BharatClub Games` | `BharatClub VIP` | `BharatClub Login` | `BharatClub Signup` | `BharatClub Game Download`  
+- `BharatClub Game`  
+- `BharatClub Games`  
+- `BharatClub VIP`  
+- `BharatClub Login`  
+- `BharatClub Signup`  
+- `BharatClub Game Download`     
 
 ---
 
