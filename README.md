@@ -1,4 +1,4 @@
-# 🇮🇳 BharatClub Game - Join the Elite Gaming Club! 🎮  
+# BharatClub Game - Join the Elite Gaming Club! 🎮  
 
 ## What is BharatClub Game?  
 BharatClub Game is a **premium gaming platform** offering **exclusive games and real-money rewards**. With features like **VIP Membership** and a **referral program**, BharatClub Game is the ultimate destination for serious gamers!  
@@ -31,4 +31,4 @@ BharatClub Game is a **premium gaming platform** offering **exclusive games and 
 ### 📩 Need Help?  
 For any queries or support, feel free to reach out!  
 
---
+---
